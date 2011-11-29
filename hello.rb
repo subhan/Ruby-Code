@@ -8,3 +8,4 @@ name = "Mahaboob Subhan"
 print name.split(),"\n"
 
 puts name.uppercase()
+

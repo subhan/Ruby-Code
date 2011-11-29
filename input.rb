@@ -23,3 +23,4 @@ while data = STDIN.gets
 	end
 	print "Enter some input : "
 end
+

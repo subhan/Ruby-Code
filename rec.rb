@@ -7,6 +7,6 @@ def fact n
 	end
 end
 
-#n = ARGV[0].to_i()
 n = ARGV[0].to_i
 print "factorial of %s is : "%n ,fact(n),"\n"
+#n = ARGV[0].to_i()

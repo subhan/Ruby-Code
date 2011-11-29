@@ -5,3 +5,4 @@ myst.push 2
 myst.printer
 myst.pop
 myst.pop
+myst.pop
